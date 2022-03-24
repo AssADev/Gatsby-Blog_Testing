@@ -15,6 +15,11 @@ const Home = () => {
             My Projects
           </Link>
         </div>
+        <img
+          src="/home-bird.png"
+          alt="Home Bird"
+          style={{ maxWidth: "100%" }}
+        />
       </section>
     </Layout>
   )
