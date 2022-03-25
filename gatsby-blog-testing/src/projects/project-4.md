@@ -2,6 +2,7 @@
 title: Project 4
 stack: Styled-Components & React.JS
 slug: project-4
+date: 2022-01-14T00:00:00+00:00
 ---
 
 # Project 4

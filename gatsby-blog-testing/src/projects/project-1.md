@@ -2,6 +2,7 @@
 title: Project 1
 stack: HTML & CSS
 slug: project-1
+date: 2022-01-03T00:00:00+00:00
 ---
 
 # Project 1

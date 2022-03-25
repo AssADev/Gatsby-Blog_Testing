@@ -2,6 +2,7 @@
 title: Project 5
 stack: Gatsby
 slug: project-5
+date: 2022-01-19T00:00:00+00:00
 ---
 
 # Project 5

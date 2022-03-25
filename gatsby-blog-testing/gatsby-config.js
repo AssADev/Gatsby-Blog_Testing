@@ -20,5 +20,6 @@ module.exports = {
         title: `Blog Testing`,
         description: `A simple blog built with Gatsby`,
         copyright: `This website is copyright © 2020 by AssADev`,
+        contact: "johndoe@enterprise.com",
     },
 }

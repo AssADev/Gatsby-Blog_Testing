@@ -2,6 +2,7 @@
 title: Project 3
 stack: PHP & MySQL
 slug: project-3
+date: 2022-01-13T00:00:00+00:00
 ---
 
 # Project 3
