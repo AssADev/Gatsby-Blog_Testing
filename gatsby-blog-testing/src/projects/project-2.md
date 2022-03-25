@@ -3,6 +3,8 @@ title: Project 2
 stack: HTML, SCSS & JavaScript
 slug: project-2
 date: 2022-01-06T00:00:00+00:00
+thumb: ../images/thumbs/project-2.png
+featureImg: ..images/featured/featured-banner.png
 ---
 
 # Project 2

@@ -3,6 +3,8 @@ title: Project 1
 stack: HTML & CSS
 slug: project-1
 date: 2022-01-03T00:00:00+00:00
+thumb: ../images/thumbs/project-1.png
+featureImg: ..images/featured/featured-banner.png
 ---
 
 # Project 1

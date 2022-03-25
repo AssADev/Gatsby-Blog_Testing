@@ -3,6 +3,8 @@ title: Project 4
 stack: Styled-Components & React.JS
 slug: project-4
 date: 2022-01-14T00:00:00+00:00
+thumb: ../images/thumbs/project-4.png
+featureImg: ..images/featured/featured-banner.png
 ---
 
 # Project 4

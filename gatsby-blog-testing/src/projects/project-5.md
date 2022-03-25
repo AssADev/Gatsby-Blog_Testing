@@ -3,6 +3,8 @@ title: Project 5
 stack: Gatsby
 slug: project-5
 date: 2022-01-19T00:00:00+00:00
+thumb: ../images/thumbs/project-5.png
+featureImg: ..images/featured/featured-banner.png
 ---
 
 # Project 5
