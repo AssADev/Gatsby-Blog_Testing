@@ -27,7 +27,7 @@ const Home = ({ data }) => {
 export default Home
 
 // Query :
-export const data = graphql`
+export const query = graphql`
     query HomeBird {
         file(relativePath: { eq: "home-bird.png" }) {
             id

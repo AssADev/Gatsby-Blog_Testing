@@ -14,5 +14,7 @@
 }
 
 .featured {
-    margin-bottom: 40px;
+    max-height: 350px;
+    margin: 0 auto;
+    aspect-ratio: 1/1;
 }
