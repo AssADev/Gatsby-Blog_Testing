@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 import React from "react"
 import Layout from "../components/Layout"
 import * as styles from "../styles/home.module.css"
@@ -15,11 +15,7 @@ const Home = () => {
             My Projects
           </Link>
         </div>
-        <img
-          src="/home-bird.png"
-          alt="Home Bird"
-          style={{ maxWidth: "100%" }}
-        />
+        <img src="/home-bird.png" alt="Home Bird" style={{ maxWidth: "90%" }} />
       </section>
     </Layout>
   )
